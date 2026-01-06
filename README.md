@@ -4,7 +4,7 @@ A terminal-based cricket match simulation written in **C**, capable of handling 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project simulates a real-world cricket match between two teams:
 
@@ -18,7 +18,7 @@ The focus is on **modular programming, structures, pointers, and file handling i
 
 ---
 
-## 🎯 Features
+##  Features
 
 * Two-innings cricket match simulation
 * Custom team names and player names
@@ -39,7 +39,7 @@ The focus is on **modular programming, structures, pointers, and file handling i
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 * Structures (`struct`)
 * Arrays of structures
@@ -51,7 +51,7 @@ The focus is on **modular programming, structures, pointers, and file handling i
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
 .
@@ -64,7 +64,7 @@ The focus is on **modular programming, structures, pointers, and file handling i
 
 ---
 
-## ▶️ How to Compile & Run
+##  How to Compile & Run
 
 ```bash
 gcc main.c scoreboard.c file.c -o scoreboard
@@ -73,7 +73,7 @@ gcc main.c scoreboard.c file.c -o scoreboard
 
 ---
 
-## 🧪 Sample Flow
+##  Sample Flow
 
 1. Enter total overs
 2. Enter Team A & Team B names
@@ -84,13 +84,13 @@ gcc main.c scoreboard.c file.c -o scoreboard
 
 ---
 
-## 📄 Output File
+##  Output File
 
 The match result and scorecard are saved in a text file for future reference.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Display live scoreboard on **CLCD (Character LCD)**
 * Update runs, wickets, and extras using **keypad input**
@@ -99,7 +99,7 @@ The match result and scorecard are saved in a text file for future reference.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ismail Pasha**
 Embedded Systems & C Programmer
